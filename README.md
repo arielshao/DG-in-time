@@ -10,7 +10,7 @@ The proposed numerical scheme combines the hp-version discontinuous Galerkin fin
    
 ### b) Implementation of the scheme for a 2D linearised elastodynamics equation.    
     b.1 2D linearised elastodynamics equation using DG-q (with q=2,3,4) for time discretisation
-    b.2 1D linearised elastodynamics equation using alpha method for time discretisation 
+    b.2 2D linearised elastodynamics equation using alpha method for time discretisation 
    
      
  
